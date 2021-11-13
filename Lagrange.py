@@ -1,5 +1,9 @@
 import numpy as np
 
+# Nama: Muchammad Prasetyo
+# NPM: 202110717001
+# Kelas: TF3A4
+
 # membaca jumlah titik data
 n = int(input('Masukan jumlah titik data : '))
 
